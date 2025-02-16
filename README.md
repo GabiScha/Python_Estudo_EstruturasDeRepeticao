@@ -10,6 +10,7 @@ O objetivo do projeto é colocar em uso as estrururas de repetição em python.
 <h2 id=features>⚙️ Funcionalidades </h2>
 
 Este projeto resolve 17 atividades utilizando alguns conceitos do python, que incluem a criação de variáveis, estruturas condicionais (if/else), impressão de valores com print() e estruturas de repetição.
+
 <a href="https://wiki.python.org.br/EstruturaSequencial">Link das Atividades</a>
 
 <h2 id=technology>💻 Tecnologias</h2>
