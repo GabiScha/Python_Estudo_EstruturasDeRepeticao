@@ -1,15 +1,15 @@
-<h1 align="center">「 Python 」- EstruturasDeRepetição_Ⅰ</h1>
+<h1 align="center">「 Python 」- EstruturaSequencial_Ⅰ</h1>
 
 
 
 
 <h2 id=objective>📌 Objetivos</h2>
 
-O objetivo do projeto é colocar em uso as estrururas de repetição em python.
+O objetivo do projeto é colocar em uso a lógica de programação em python.
 
 <h2 id=features>⚙️ Funcionalidades </h2>
 
-Este projeto resolve 17 atividades utilizando alguns conceitos do python, que incluem a criação de variáveis, estruturas condicionais (if/else), impressão de valores com print() e estruturas de repetição.
+Este projeto resolve 18 atividades utilizando alguns conceitos do python, que incluem a criação de variáveis, estruturas condicionais (if/else), impressão de valores com print() e expressões matemáticas com o uso de math().
 
 <a href="https://wiki.python.org.br/EstruturaSequencial">Link das Atividades</a>
 
